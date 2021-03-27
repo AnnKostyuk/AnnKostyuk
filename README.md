@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnKostyuk
-- 👀 I’m interested in Flutter, Dart, Go, AWS
+- 👀 I’m interested in Python, Go, AWS
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
