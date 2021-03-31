@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnnKostyuk
 - 👀 I’m interested in Python, Go, AWS
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m not looking to collaborate on ...
+- 📫 How to reach me... call my Dad))
 
 <!---
 AnnKostyuk/AnnKostyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
