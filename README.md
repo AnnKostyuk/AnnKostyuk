@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnnKostyuk
+- 👋 Hi, I’m @AnnKostiuk
 - 👀 I’m interested in Python, Go, AWS
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m not looking to collaborate on ...
